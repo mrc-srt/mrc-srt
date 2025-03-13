@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**mrc-srt/mrc-srt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm **Marco Saretta**, an industrial PhD researcher working at the intersection of **energy markets, optimization, and green hydrogen**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔭 **Current Research**
+
+My PhD project —  
+**"Commoditizing Green Hydrogen in Europe: From Efficient Market Design to Optimal Contracting and Investment"** —  
+focuses on developing **quantitative tools** to:  
+- **Price Power Purchase Agreements (PPAs)** and optimize contracts for green hydrogen.  
+- Support **investment and contracting under uncertainty**.
+
+**Key areas**:  
+- **Market Design** for hydrogen (TSOs/DSOs, efficient structures).  
+- **Contracting & Investment** models to improve bankability of PtX projects.
+
+
+## 🧠 **Technical Stack & Interests**
+
+- **Optimization** (my daily bread):  
+  - Main languages: **Python** (primary), **Julia** (for energy system modeling).  
+  - Tools: **Gurobipy, Linopy**, Pyomo, and other optimization libraries.  
+- **Energy system modeling** and **market design**.  
+- **Machine Learning** for energy systems (forecasting, optimization under uncertainty).  
+- **Game Theory**: especially applied to PPAs and hydrogen contracting/market mechanisms.  
+- **Energy Markets**: focus on **hydrogen offtake**, pricing mechanisms, and investment strategies.
+
+
+## 👯 **Looking to Collaborate On**
+
+- **Optimization models** for energy markets and contracting.  
+- **Hydrogen market** and PPA pricing models.  
+- Anything at the intersection of **energy systems, optimization, and machine learning**.
+
+## 📫 **How to Reach Me**
+
+- DTU Email: mcsr@dtu.dk  
+- LinkedIn:  marcosaretta
