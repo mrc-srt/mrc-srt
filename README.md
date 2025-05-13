@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm **Marco Saretta**, an industrial PhD researche
 
 ## 🔭 **Current Research**
 
-My PhD project — **"Commoditizing Green Hydrogen in Europe: From Efficient Market Design to Optimal Contracting and Investment"** —  
+My PhD project **"Commoditizing Green Hydrogen in Europe: From Efficient Market Design to Optimal Contracting and Investment"**
 focuses on developing **quantitative tools** to:  
 - **Price Power Purchase Agreements (PPAs)** and optimize contracts for green hydrogen.  
 - Support **investment and contracting under uncertainty**.
